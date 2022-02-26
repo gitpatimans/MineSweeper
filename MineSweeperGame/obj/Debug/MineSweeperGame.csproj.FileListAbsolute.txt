@@ -1,0 +1,7 @@
+D:\Manasi\Projects\MineSweeperGame\MineSweeperGame\bin\Debug\MineSweeperGame.exe.config
+D:\Manasi\Projects\MineSweeperGame\MineSweeperGame\bin\Debug\MineSweeperGame.exe
+D:\Manasi\Projects\MineSweeperGame\MineSweeperGame\bin\Debug\MineSweeperGame.pdb
+D:\Manasi\Projects\MineSweeperGame\MineSweeperGame\obj\Debug\MineSweeperGame.csproj.SuggestedBindingRedirects.cache
+D:\Manasi\Projects\MineSweeperGame\MineSweeperGame\obj\Debug\MineSweeperGame.csproj.CoreCompileInputs.cache
+D:\Manasi\Projects\MineSweeperGame\MineSweeperGame\obj\Debug\MineSweeperGame.exe
+D:\Manasi\Projects\MineSweeperGame\MineSweeperGame\obj\Debug\MineSweeperGame.pdb
